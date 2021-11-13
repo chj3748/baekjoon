@@ -1,3 +1,12 @@
+## 2021/11/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11502](https://www.acmicpc.net/problem/11502) | [세 개의 소수 문제](https://www.acmicpc.net/problem/11502) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2225](https://www.acmicpc.net/problem/2225) | [합분해](https://www.acmicpc.net/problem/2225) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2229](https://www.acmicpc.net/problem/2229) | [조 짜기](https://www.acmicpc.net/problem/2229) |
+
 ## 2021/11/13 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1407,7 +1416,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [13702](https://www.acmicpc.net/problem/13702) | [이상한 술집](https://www.acmicpc.net/problem/13702) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12893](https://www.acmicpc.net/problem/12893) | [적의 적](https://www.acmicpc.net/problem/12893) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [12893](https://www.acmicpc.net/problem/12893) | [적의 적](https://www.acmicpc.net/problem/12893) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13023](https://www.acmicpc.net/problem/13023) | [ABCDE](https://www.acmicpc.net/problem/13023) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [4315](https://www.acmicpc.net/problem/4315) | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) |
 
