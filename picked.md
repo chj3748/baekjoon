@@ -1,3 +1,12 @@
+## 2021/11/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10211](https://www.acmicpc.net/problem/10211) | [Maximum Subarray](https://www.acmicpc.net/problem/10211) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1932](https://www.acmicpc.net/problem/1932) | [정수 삼각형](https://www.acmicpc.net/problem/1932) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1946](https://www.acmicpc.net/problem/1946) | [신입 사원](https://www.acmicpc.net/problem/1946) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1991](https://www.acmicpc.net/problem/1991) | [트리 순회](https://www.acmicpc.net/problem/1991) |
+
 ## 2021/11/28 
 
 | 난이도 | 번호 | 문제 이름 |
