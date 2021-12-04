@@ -1,3 +1,12 @@
+## 2021/12/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1972](https://www.acmicpc.net/problem/1972) | [놀라운 문자열](https://www.acmicpc.net/problem/1972) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1174](https://www.acmicpc.net/problem/1174) | [줄어드는 수](https://www.acmicpc.net/problem/1174) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1189](https://www.acmicpc.net/problem/1189) | [컴백홈](https://www.acmicpc.net/problem/1189) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1303](https://www.acmicpc.net/problem/1303) | [전쟁 - 전투](https://www.acmicpc.net/problem/1303) |
+
 ## 2021/12/04 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -95,7 +104,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1283](https://www.acmicpc.net/problem/1283) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2343](https://www.acmicpc.net/problem/2343) | [기타 레슨](https://www.acmicpc.net/problem/2343) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2531](https://www.acmicpc.net/problem/2531) | [회전 초밥](https://www.acmicpc.net/problem/2531) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2553](https://www.acmicpc.net/problem/2553) | [마지막 팩토리얼 수](https://www.acmicpc.net/problem/2553) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2553](https://www.acmicpc.net/problem/2553) | [마지막 팩토리얼 수](https://www.acmicpc.net/problem/2553) |
 
 ## 2021/11/23 
 
