@@ -1,3 +1,8 @@
+## 2021/12/26 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2021/12/25 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -201,7 +206,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1283](https://www.acmicpc.net/problem/1283) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1283](https://www.acmicpc.net/problem/1283) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2343](https://www.acmicpc.net/problem/2343) | [기타 레슨](https://www.acmicpc.net/problem/2343) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2531](https://www.acmicpc.net/problem/2531) | [회전 초밥](https://www.acmicpc.net/problem/2531) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2553](https://www.acmicpc.net/problem/2553) | [마지막 팩토리얼 수](https://www.acmicpc.net/problem/2553) |
@@ -744,7 +749,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [17521](https://www.acmicpc.net/problem/17521) | [Byte Coin](https://www.acmicpc.net/problem/17521) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17265](https://www.acmicpc.net/problem/17265) | [나의 인생에는 수학과 함께](https://www.acmicpc.net/problem/17265) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17135](https://www.acmicpc.net/problem/17135) | [캐슬 디펜스](https://www.acmicpc.net/problem/17135) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1581](https://www.acmicpc.net/problem/1581) | [락스타 락동호](https://www.acmicpc.net/problem/1581) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1581](https://www.acmicpc.net/problem/1581) | [락스타 락동호](https://www.acmicpc.net/problem/1581) |
 
 ## 2021/09/24 
 
