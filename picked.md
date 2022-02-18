@@ -1,3 +1,8 @@
+## 2022/02/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/02/18 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -569,7 +574,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [11502](https://www.acmicpc.net/problem/11502) | [세 개의 소수 문제](https://www.acmicpc.net/problem/11502) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2225](https://www.acmicpc.net/problem/2225) | [합분해](https://www.acmicpc.net/problem/2225) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2229](https://www.acmicpc.net/problem/2229) | [조 짜기](https://www.acmicpc.net/problem/2229) |
 
 ## 2021/11/13 
