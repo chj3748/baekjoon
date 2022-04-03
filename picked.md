@@ -1,3 +1,8 @@
+## 2022/04/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/04/03 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1022,7 +1027,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2729](https://www.acmicpc.net/problem/2729) | [이진수 덧셈](https://www.acmicpc.net/problem/2729) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2469](https://www.acmicpc.net/problem/2469) | [사다리 타기](https://www.acmicpc.net/problem/2469) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2469](https://www.acmicpc.net/problem/2469) | [사다리 타기](https://www.acmicpc.net/problem/2469) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20168](https://www.acmicpc.net/problem/20168) | [골목 대장 호석 - 기능성](https://www.acmicpc.net/problem/20168) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1987](https://www.acmicpc.net/problem/1987) | [알파벳](https://www.acmicpc.net/problem/1987) |
 
