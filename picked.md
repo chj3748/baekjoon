@@ -1,3 +1,8 @@
+## 2022/06/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/06/23 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1150,7 +1155,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [17626](https://www.acmicpc.net/problem/17626) | [Four Squares](https://www.acmicpc.net/problem/17626) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17626](https://www.acmicpc.net/problem/17626) | [Four Squares](https://www.acmicpc.net/problem/17626) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1188](https://www.acmicpc.net/problem/1188) | [음식 평론가](https://www.acmicpc.net/problem/1188) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1405](https://www.acmicpc.net/problem/1405) | [미친 로봇](https://www.acmicpc.net/problem/1405) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1759](https://www.acmicpc.net/problem/1759) | [암호 만들기](https://www.acmicpc.net/problem/1759) |
@@ -3034,7 +3039,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [13305](https://www.acmicpc.net/problem/13305) | [주유소](https://www.acmicpc.net/problem/13305) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [13908](https://www.acmicpc.net/problem/13908) | [비밀번호](https://www.acmicpc.net/problem/13908) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [18769](https://www.acmicpc.net/problem/18769) | [그리드 네트워크](https://www.acmicpc.net/problem/18769) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [12912](https://www.acmicpc.net/problem/12912) | [트리 수정](https://www.acmicpc.net/problem/12912) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [12912](https://www.acmicpc.net/problem/12912) | [트리 수정](https://www.acmicpc.net/problem/12912) |
 
 ## 2021/04/23 
 
