@@ -1,3 +1,8 @@
+## 2022/07/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/07/01 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2101,7 +2106,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1439](https://www.acmicpc.net/problem/1439) | [뒤집기](https://www.acmicpc.net/problem/1439) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15988](https://www.acmicpc.net/problem/15988) | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11066](https://www.acmicpc.net/problem/11066) | [파일 합치기](https://www.acmicpc.net/problem/11066) |
 
 ## 2021/08/09 
@@ -2326,7 +2331,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4446](https://www.acmicpc.net/problem/4446) | [ROT13](https://www.acmicpc.net/problem/4446) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15666](https://www.acmicpc.net/problem/15666) | [N과 M (12)](https://www.acmicpc.net/problem/15666) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2447](https://www.acmicpc.net/problem/2447) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11437](https://www.acmicpc.net/problem/11437) | [LCA](https://www.acmicpc.net/problem/11437) |
 
 ## 2021/07/15 
@@ -2874,7 +2879,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [9046](https://www.acmicpc.net/problem/9046) | [복호화](https://www.acmicpc.net/problem/9046) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17609](https://www.acmicpc.net/problem/17609) | [회문](https://www.acmicpc.net/problem/17609) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17609](https://www.acmicpc.net/problem/17609) | [회문](https://www.acmicpc.net/problem/17609) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11985](https://www.acmicpc.net/problem/11985) | [오렌지 출하](https://www.acmicpc.net/problem/11985) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9944](https://www.acmicpc.net/problem/9944) | [NxM 보드 완주하기](https://www.acmicpc.net/problem/9944) |
 
