@@ -1,3 +1,8 @@
+## 2022/07/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/07/03 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2119,7 +2124,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1436](https://www.acmicpc.net/problem/1436) | [영화감독 숌](https://www.acmicpc.net/problem/1436) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11123](https://www.acmicpc.net/problem/11123) | [양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11123](https://www.acmicpc.net/problem/11123) | [양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15686](https://www.acmicpc.net/problem/15686) | [치킨 배달](https://www.acmicpc.net/problem/15686) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19237](https://www.acmicpc.net/problem/19237) | [어른 상어](https://www.acmicpc.net/problem/19237) |
 
@@ -2757,7 +2762,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11653](https://www.acmicpc.net/problem/11653) | [소인수분해](https://www.acmicpc.net/problem/11653) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [11653](https://www.acmicpc.net/problem/11653) | [소인수분해](https://www.acmicpc.net/problem/11653) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9934](https://www.acmicpc.net/problem/9934) | [완전 이진 트리](https://www.acmicpc.net/problem/9934) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15918](https://www.acmicpc.net/problem/15918) | [랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9470](https://www.acmicpc.net/problem/9470) | [Strahler 순서](https://www.acmicpc.net/problem/9470) |
