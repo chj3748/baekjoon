@@ -1,3 +1,8 @@
+## 2022/09/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2022/09/13 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1719,7 +1724,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2121](https://www.acmicpc.net/problem/2121) | [넷이 놀기](https://www.acmicpc.net/problem/2121) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18222](https://www.acmicpc.net/problem/18222) | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3107](https://www.acmicpc.net/problem/3107) | [IPv6](https://www.acmicpc.net/problem/3107) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [3107](https://www.acmicpc.net/problem/3107) | [IPv6](https://www.acmicpc.net/problem/3107) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1504](https://www.acmicpc.net/problem/1504) | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) |
 
 ## 2021/10/31 
@@ -1873,7 +1878,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1978](https://www.acmicpc.net/problem/1978) | [소수 찾기](https://www.acmicpc.net/problem/1978) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16507](https://www.acmicpc.net/problem/16507) | [어두운 건 무서워](https://www.acmicpc.net/problem/16507) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18430](https://www.acmicpc.net/problem/18430) | [무기 공학](https://www.acmicpc.net/problem/18430) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2206](https://www.acmicpc.net/problem/2206) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2206](https://www.acmicpc.net/problem/2206) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
 
 ## 2021/10/14 
 
