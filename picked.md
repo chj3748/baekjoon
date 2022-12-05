@@ -1,3 +1,9 @@
+## 2022/12/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2792](https://www.acmicpc.net/problem/2792) | [보석 상자](https://www.acmicpc.net/problem/2792) |
+
 ## 2022/12/05 
 
 | 난이도 | 번호 | 문제 이름 |
