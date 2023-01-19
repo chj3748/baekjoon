@@ -1,3 +1,8 @@
+## 2023/01/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/01/19 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2315,7 +2320,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10828](https://www.acmicpc.net/problem/10828) | [스택](https://www.acmicpc.net/problem/10828) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16987](https://www.acmicpc.net/problem/16987) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16987](https://www.acmicpc.net/problem/16987) | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1043](https://www.acmicpc.net/problem/1043) | [거짓말](https://www.acmicpc.net/problem/1043) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1062](https://www.acmicpc.net/problem/1062) | [가르침](https://www.acmicpc.net/problem/1062) |
 
@@ -2578,7 +2583,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1895](https://www.acmicpc.net/problem/1895) | [필터](https://www.acmicpc.net/problem/1895) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16198](https://www.acmicpc.net/problem/16198) | [에너지 모으기](https://www.acmicpc.net/problem/16198) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2457](https://www.acmicpc.net/problem/2457) | [공주님의 정원](https://www.acmicpc.net/problem/2457) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) |
 
 ## 2021/10/07 
 
