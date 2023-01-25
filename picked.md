@@ -1,3 +1,8 @@
+## 2023/01/26 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/01/25 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2381,7 +2386,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [3986](https://www.acmicpc.net/problem/3986) | [좋은 단어](https://www.acmicpc.net/problem/3986) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17393](https://www.acmicpc.net/problem/17393) | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [17393](https://www.acmicpc.net/problem/17393) | [다이나믹 롤러](https://www.acmicpc.net/problem/17393) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1484](https://www.acmicpc.net/problem/1484) | [다이어트](https://www.acmicpc.net/problem/1484) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1493](https://www.acmicpc.net/problem/1493) | [박스 채우기](https://www.acmicpc.net/problem/1493) |
 
@@ -3083,7 +3088,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1913](https://www.acmicpc.net/problem/1913) | [달팽이](https://www.acmicpc.net/problem/1913) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20207](https://www.acmicpc.net/problem/20207) | [달력](https://www.acmicpc.net/problem/20207) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20207](https://www.acmicpc.net/problem/20207) | [달력](https://www.acmicpc.net/problem/20207) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13707](https://www.acmicpc.net/problem/13707) | [합분해 2](https://www.acmicpc.net/problem/13707) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16986](https://www.acmicpc.net/problem/16986) | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) |
 
