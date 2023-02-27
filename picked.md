@@ -1,3 +1,8 @@
+## 2023/02/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+
 ## 2023/02/27 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -3220,7 +3225,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [1969](https://www.acmicpc.net/problem/1969) | [DNA](https://www.acmicpc.net/problem/1969) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1969](https://www.acmicpc.net/problem/1969) | [DNA](https://www.acmicpc.net/problem/1969) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17503](https://www.acmicpc.net/problem/17503) | [맥주 축제](https://www.acmicpc.net/problem/17503) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14925](https://www.acmicpc.net/problem/14925) | [목장 건설하기](https://www.acmicpc.net/problem/14925) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16971](https://www.acmicpc.net/problem/16971) | [배열 B의 값](https://www.acmicpc.net/problem/16971) |
